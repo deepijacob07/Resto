@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    }
+#user{
+    height: 20px;
+    width:20px;
+}    
+#utensils{
+    font-family: "Abril Fatface", serif;
+}
+#imgsize{
+    width:80px;
+    height:80px;
+}
+#size{
+    height: 40rem;
+    width: 40rem;
+}
+#footerimg{
+    height:20rem;
+    width:20rem;
+}
+.error{
+    color:red;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.group .success input{
+    border-color: green;
+}
+.group .error input{
+    border-color: red;
+}
+#hide{
+    display: none;
+}
